@@ -1,0 +1,26 @@
+.container {
+    border: 1px solid #aaaab9;
+    border-radius: 10px;
+    background-color: ghostwhite;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 30vh;
+}
+
+.close {
+    width: 98%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding: 1%;
+    background-color: rgb(253 253 253);
+    border-bottom: 1px solid #e7e5e5;
+}
+
+p {
+    padding: 5px;
+    text-align: center;
+}
+
+.icon:hover {
+    color: gray;
+}
